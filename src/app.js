@@ -1,4 +1,5 @@
 console.log("Merhaba Kodlama.io")
+console.log("Gaye")
 
 //JS type safe değildir
 let dolarBugun = 9.30
