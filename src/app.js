@@ -35,3 +35,5 @@ console.log("</ul>")
 </ul> */}
 
 console.log(konutKredileri)
+
+// DAY 3
