@@ -1,5 +1,5 @@
-export default class User {
-
+export default class User{
+    
     constructor(id, firstName, lastName, city,age) {
         //console.log("User oluştu")
         //prototyping kullanılıyor
@@ -9,7 +9,5 @@ export default class User {
         this.city = city
         this.age=age
     }
-
-
 
 }
